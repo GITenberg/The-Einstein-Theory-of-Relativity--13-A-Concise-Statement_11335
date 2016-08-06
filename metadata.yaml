@@ -1,0 +1,27 @@
+_repo: The-Einstein-Theory-of-Relativity--13-A-Concise-Statement_11335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorentz, H. A. (Hendrik Antoon)
+    alias: Lorentz, Hendrik Antoon
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '3944'
+    url: http://www.gutenberg.org/2009/agents/3944
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Relativity (Physics)'
+- !lcsh 'Einstein, Albert, 1879-1955'
+- GITenberg
+title: "The Einstein Theory of Relativity\r\nA Concise Statement"
+url: http://www.gutenberg.org/ebooks/11335
